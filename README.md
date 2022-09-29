@@ -6,17 +6,17 @@ mouse, etc. We highly recommend that you use this version to ease your
 transition to vim. 
 ## Instructions for Installation
 1. From your local machine, first ssh into ieng6 by typing
-```bash
+```
 ssh ieng6
 ```
 or 
-```bash
+```
 ssh yourcs30username@ieng6.ucsd.edu
 ```
 2. In your ieng6 home directory, run
-```bash
+```
 git clone https://github.com/cse30-fa22/basic_vimrc.git
-```bash
+```
 3. Copy the .vimrc file from the newly cloned git repo to your home directory
 ```
 cp ./basic_vimrc/.vimrc .
