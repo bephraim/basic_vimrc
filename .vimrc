@@ -2,7 +2,8 @@
 set nocompatible
 
 " color theme
-colorscheme elflord 
+colorscheme catppuccin
+set background=dark
 
 " highlight syntax
 syntax on
